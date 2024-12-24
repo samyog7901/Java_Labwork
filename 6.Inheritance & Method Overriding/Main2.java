@@ -20,8 +20,7 @@ public class Main2 {
         Child c = new Child();
         c.display();
         c.show();
-        c.introduce();
-       
+        c.introduce();       
     }
     
 }
