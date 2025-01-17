@@ -1,7 +1,7 @@
 package mypackage3;
 
 public class StringUtils{
-    public static String toUC(String s){
+    public static String toUc(String s){
         return s.toUpperCase();
     }
 }
